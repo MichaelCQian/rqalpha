@@ -9,7 +9,7 @@ base:
   # 数据源所存储的文件路径
   data_bundle_path: ~
   # 启动的策略文件路径
-  strategy_file: strategy.py
+  strategy_file: buy_and_hold.py
   # 策略源代码
   source_code: ~
   # 回测起始日期
